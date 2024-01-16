@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "f:\mode 7 official.py", line 64, in <module>
+    progression_outcome(Pass,Defer,Fail)
+  File "f:\mode 7 official.py", line 21, in progression_outcome
+    print(retriver)
+          ^^^^^^^^
+UnboundLocalError: cannot access local variable 'retriver' where it is not associated with a value
